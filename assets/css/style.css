@@ -1,0 +1,14 @@
+.shots {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.drink {
+    height: 200px;
+    width: 200px;
+}
+#goal {
+    margin: 5% 35% 0 45%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
